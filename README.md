@@ -1,4 +1,4 @@
-# NtcA_ChIP-seq_samples
+# NtcA_bioprotocol_tutorial
 samples for ChIP-seq data analysis described in "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803" bio-protocols
 Samples for ChIP-seq data analysis described in the bioinformatic tutorial "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803"
 
