@@ -16,10 +16,10 @@ The original fastaQ files are available at Gene Expression Omnibus(GEO) with the
 
 **Files description:**
 
-**N_input.fq:** input sample from Synechocystis cells grown 4 hours in absence of nitrogen.
+**N_input.fastq:** input sample from Synechocystis cells grown 4 hours in absence of nitrogen.
 
-**N_ChIP.fq:** ChIP-seq sample from Synechocystis cells grown 4 hours in absence of nitrogen.
+**N_ChIP.fastqq:** ChIP-seq sample from Synechocystis cells grown 4 hours in absence of nitrogen.
 
-**NH4_input.fq:** input sample from Synechocystis cells grown 4 hours in presence of ammonium.
+**NH4_input.fastq:** input sample from Synechocystis cells grown 4 hours in presence of ammonium.
 
-**NH4_ChIP.fq:** ChIP-seq sample from Synechocystis cells grown 4 hours in presence of ammonium.
+**NH4_ChIP.fastq:** ChIP-seq sample from Synechocystis cells grown 4 hours in presence of ammonium.
