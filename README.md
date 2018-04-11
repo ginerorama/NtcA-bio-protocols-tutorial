@@ -2,7 +2,7 @@
 samples for ChIP-seq data analysis described in "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803" bio-protocols
 Samples for ChIP-seq data analysis described in the bioinformatic tutorial "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803"
 
-Authors: Joaquín Giner-Lamia, Miguel Hernandez-Prieto, M.E. Futschik
+Authors: Joaquín Giner-Lamia, Miguel Hernández-Prieto, M.E. Futschik
 
 Journal: Bio-protocols
 
@@ -10,9 +10,9 @@ The data deposited in this project comes from a series of ChIP-seq experiments t
 
 Joaquin Giner-Lamia et al., Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017. Nucleic Acids Res.
 
-FastQ files presents in this repository has been modify to minimize the computational time consuming for the bioinformatic analysis during the protocols. Thus files presents in this repository contains only 1% of total reads presents in the original ChIP-seq files.
+Fastq files presents in this repository has been modify to minimize the computational time consuming for the bioinformatic analysis during the protocols. Thus files presents in this repository contains only 1% of total reads presents in the original ChIP-seq files.
 
-The original fastaQ files are available at Gene Expression Omnibus(GEO) with the accession number: GSE97291.
+The original fastq files are available at Gene Expression Omnibus(GEO) with the accession number: GSE97291.
 
 **Files description:**
 
@@ -24,4 +24,8 @@ The original fastaQ files are available at Gene Expression Omnibus(GEO) with the
 
 **NH4_ChIP.fastq:** ChIP-seq sample from Synechocystis cells grown 4 hours in presence of ammonium.
 
-**Syn6803.genome:** IGV genome file of Synechocystis created using .fa and .GFF from the Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+**Syn6803.genome:** IGV genome file of Synechocystis created using .fasta and .GFF from the Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+
+**NC_000911.1.fasta:** Synechocystis sp. PCC6803 genome in .fasta format                
+
+**NC_000911.1.gff:** Synechocystis sp. PCC6803 genome in .gff format  
