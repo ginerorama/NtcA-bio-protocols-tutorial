@@ -23,3 +23,5 @@ The original fastaQ files are available at Gene Expression Omnibus(GEO) with the
 **NH4_input.fastq:** input sample from Synechocystis cells grown 4 hours in presence of ammonium.
 
 **NH4_ChIP.fastq:** ChIP-seq sample from Synechocystis cells grown 4 hours in presence of ammonium.
+
+**Syn6803.genome:** IGV genome file of Synechocystis created using .fa and .GFF from the Synechocystis sp. PCC 6803 Refseq                 genome NC_000911
