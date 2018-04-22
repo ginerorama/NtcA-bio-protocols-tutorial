@@ -1,7 +1,7 @@
-# Bioinformatic tutorial for NtcA ChIP-seq analysis 
-
-This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
+# Tutorial for NtcA ChIP-seq analysis 
 ![alt text](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/header-logo.png "Logo Title Text 1")
+This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
+
 
 
 citations:_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_
