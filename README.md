@@ -1,31 +1,45 @@
-# NtcA_bioprotocol_tutorial
-samples for ChIP-seq data analysis described in "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803" bio-protocols
-Samples for ChIP-seq data analysis described in the bioinformatic tutorial "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803"
+#Bioinformatic tutorial for NtcA ChIP-seq analysis 
+![alt text](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/header-logo.png "Logo Title Text 1")
 
-Authors: Joaquín Giner-Lamia, Miguel Hernández-Prieto, M.E. Futschik
+This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
 
-Journal: Bio-protocols
+citations:_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_
 
-The data deposited in this project comes from a series of ChIP-seq experiments to analyse the reguon of NtcA in conditions of low and high avilability of nitrogen. The analysis of these data can be found at:
+*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
 
-Joaquin Giner-Lamia et al., Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017. Nucleic Acids Res.
 
-Fastq files presents in this repository has been modify to minimize the computational time consuming for the bioinformatic analysis during the protocols. Thus files presents in this repository contains only 1% of total reads presents in the original ChIP-seq files.
+The data deposited in this project comes from a series of ChIP-seq experiments to the aims of analyse the regulon of NtcA in conditions of low and high avilability of nitrogen. The analysis of these data can be found at:
+
+_Joaquin Giner-Lamia et al.,_ Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017._Nucleic Acids Res_.
+
+
+Note: Fastq files presents in this repository has been modify to minimize the computational time consuming for the bioinformatic analysis during the protocols. Thus files presents in this repository contains only 1% of total reads presents in the original ChIP-seq files.
 
 The original fastq files are available at Gene Expression Omnibus(GEO) with the accession number: GSE97291.
 
-**Files description:**
 
-**N_input.fastq:** input sample from Synechocystis cells grown 4 hours in absence of nitrogen.
+##**Files description:**
 
-**N_ChIP.fastq:** ChIP-seq sample from Synechocystis cells grown 4 hours in absence of nitrogen.
+Here you can find all the files neccesaries for this tutorial.
 
-**NH4_input.fastq:** input sample from Synechocystis cells grown 4 hours in presence of ammonium.
+[**N_input.fastq:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/N_input.fastq.zip) input sample from _Synechocystis_ cells grown 4 hours in absence of nitrogen.
 
-**NH4_ChIP.fastq:** ChIP-seq sample from Synechocystis cells grown 4 hours in presence of ammonium.
+[**N_ChIP.fastq:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/N_ChIP.fastq.zip) ChIP-seq sample from _Synechocystis_ cells grown 4 hours in absence of nitrogen.
 
-**Syn6803.genome:** IGV genome file of Synechocystis created using .fasta and .GFF from the Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+[**NH4_input.fastq:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NH4_input.fastq.zip) input sample from _Synechocystis_ cells grown 4 hours in presence of ammonium.
 
-**NC_000911.1.fasta:** Synechocystis sp. PCC6803 genome in .fasta format                
+[**NH4_ChIP.fastq:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NH4_ChIP.fastq.zip) ChIP-seq sample from _Synechocystis_ cells grown 4 hours in presence of ammonium.
 
-**NC_000911.1.gff:** Synechocystis sp. PCC6803 genome in .gff format  
+[**Syn6803.genome:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/syn6803.genome) IGV genome file of _Synechocystis_ created using .fasta and .GFF from the          Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+
+[**NC_000911.1.fasta:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NC_000911.1.fasta) _Synechocystis_ sp. PCC6803 genome in .fasta format                
+
+[**NC_000911.1.gff:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NC_000911.1.gff) _Synechocystis_ sp. PCC6803 genome in .gff format  
+
+**command_lines.txt**: all command lines used in this tutorial
+
+Note: while all_files folder contains all the files generated in this tutorial(including intermediate and final files), in the scripts folder users can find all the scripts used during this tutorial.
+
+
+
+
