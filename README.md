@@ -3,20 +3,25 @@
 
 This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
 
-citations:_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_
+_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
 
-*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
-
- A wiki version of this protocol it is also available [here](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/wiki)
+A wiki version of this protocol is available [here](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/wiki)
 
 The data deposited in this project comes from a series of ChIP-seq experiments to the aims of analyse the regulon of NtcA in conditions of low and high avilability of nitrogen. The analysis of these data can be found at:
 
-_Joaquin Giner-Lamia et al.,_ Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017._Nucleic Acids Res_.
-
+_Joaquin Giner-Lamia* et al.,_ Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017._Nucleic Acids Res_.*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
 
 Note: Fastq files presents in this repository has been modify to minimize the computational time consuming for the bioinformatic analysis during the protocols. Thus files presents in this repository contains only 1% of total reads presents in the original ChIP-seq files.
 
 The original fastq files are available at Gene Expression Omnibus(GEO) with the accession number: GSE97291.
+
+
+Please if you find useful this tutorial please cite:
+
+_Joaquin Giner-Lamia* et al.,_ Identification of the direct regulon of NtcA during early acclimation to nitrogen starvation in the cyanobacterium Synechocystis sp. PCC 6803. 2017._Nucleic Acids Res_.*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
+
+_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_*To whom correspondence should be addressed:jginer[AT]cnb.csic.es
+
 
 
 ## **Files description:**
