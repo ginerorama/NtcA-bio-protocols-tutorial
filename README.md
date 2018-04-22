@@ -36,7 +36,9 @@ Here you can find all the files neccesaries for this tutorial.
 
 [**NH4_ChIP.fastq:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NH4_ChIP.fastq.zip) ChIP-seq sample from _Synechocystis_ cells grown 4 hours in presence of ammonium.
 
-[**Syn6803.genome:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/syn6803.genome) IGV genome file of _Synechocystis_ created using .fasta and .GFF from the          Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+[**pcc6803.genome.fasta:**](https://github.com/ginerorama/NtcA-bio-protocols-tutorial/blob/master/pcc6803.genome.fasta) IGV genome file of _Synechocystis_ created using .fasta and .GFF from the          Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
+
+[**pcc6803.genome.fasta.fai:**](https://github.com/ginerorama/NtcA-bio-protocols-tutorial/blob/master/pcc6803.genome.fasta.fai) IGV index genome file of _Synechocystis_ created using .fasta and .GFF from the          Synechocystis sp. PCC 6803 Refseq                 genome NC_000911.1
 
 [**NC_000911.1.fasta:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NC_000911.1.fasta) _Synechocystis_ sp. PCC6803 genome in .fasta format                
 
