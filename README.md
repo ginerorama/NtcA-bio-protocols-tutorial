@@ -1,4 +1,4 @@
-#Bioinformatic tutorial for NtcA ChIP-seq analysis 
+# Bioinformatic tutorial for NtcA ChIP-seq analysis 
 ![alt text](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/header-logo.png "Logo Title Text 1")
 
 This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
@@ -18,7 +18,7 @@ Note: Fastq files presents in this repository has been modify to minimize the co
 The original fastq files are available at Gene Expression Omnibus(GEO) with the accession number: GSE97291.
 
 
-##**Files description:**
+## **Files description:**
 
 Here you can find all the files neccesaries for this tutorial.
 
