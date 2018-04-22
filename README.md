@@ -40,7 +40,7 @@ Here you can find all the files neccesaries for this tutorial.
 
 **command_lines.txt**: all command lines used in this tutorial
 
-Note: while all_files folder contains all the files generated in this tutorial(including intermediate and final files), in the scripts folder users can find all the scripts used during this tutorial.
+Note: while all_files folder contains all the files generated in this tutorial (including intermediate and final files), in the scripts folder users can find all the scripts used during this tutorial.
 
 
 
