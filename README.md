@@ -3,12 +3,11 @@
 
 This repository is used to store the code and raw material for the ChIP-seq bioinformatic tutorial of _Synechocystis'_ NtcA published in bio-protocols.
 
-
-
 citations:_Joaquín Giner-Lamia*, Miguel Hernández-Prieto, M.E. Futschik_. "ChIP-seq Experiment and Data Analysis in the Cyanobacterium Synechocystis sp. PCC 6803". 2018. _bio-protocols_
 
 *To whom correspondence should be addressed:jginer[AT]cnb.csic.es
 
+ A wiki version of this protocol it is also available [here](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/wiki)
 
 The data deposited in this project comes from a series of ChIP-seq experiments to the aims of analyse the regulon of NtcA in conditions of low and high avilability of nitrogen. The analysis of these data can be found at:
 
