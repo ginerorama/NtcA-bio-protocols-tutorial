@@ -44,7 +44,7 @@ Here you can find all the files neccesaries for this tutorial.
 
 [**NC_000911.1.gff:**](https://github.com/ginerorama/NtcA_bio-protocols_tutorial/blob/master/NC_000911.1.gff) _Synechocystis_ sp. PCC6803 genome in .gff format  
 
-Note: while all_files folder contains all the files generated in this tutorial (including intermediate and final files), in the scripts folder users can find all the scripts used during this tutorial.
+Note: while all_files folder contains all the files generated in this tutorial (including intermediate and final files), in the scripts folder users can find all the scripts neccesaries for this tutorial.
 
 
 
