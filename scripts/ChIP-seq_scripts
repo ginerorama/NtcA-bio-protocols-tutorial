@@ -6,7 +6,7 @@
 # Note: This bash script contains all the command line used in the ChIP-seq tutorial. 
 # By default shell script will not run. You need to set execute permission for your shell script. 
 # To give permission type the following command: $ chmod +x ChIP-seq_scripts
-# To execute or run the script: $ ./ChIP-seq_scripts 
+# To execute or run the script: $ . ChIP-seq_scripts 
 # execute this script after move it into the folder where you cloned all the tutorial files.
 # uncompress the fastq.zip files!!!
 
