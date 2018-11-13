@@ -20,8 +20,8 @@ bowtie2-build NC_000911.1.fasta Synechocystis
 
 #Line command to align the ChIP-samples:
 echo 2.aligning ChIP-samples
-Bowtie2 -x Synechocystis -U N_ChIP.fastq -S N_ChIP.sam
-Bowtie2 -x Synechocystis -U N_Input.fastq -S N_Input.sam
+bowtie2 -x Synechocystis -U N_ChIP.fastq -S N_ChIP.sam
+bowtie2 -x Synechocystis -U N_Input.fastq -S N_Input.sam
 
 
 
@@ -48,8 +48,8 @@ samtools index N_ChIP_sorted.bam
 echo DeepTool2: Creating BigWig files 
 
 
-bamCoverage -b N_Input_sorted.bam -o N_Input.bw --normalizeUsingRPKM
-bamCoverage -b N_ChIP_sorted.bam -o N_ChIP.bw --normalizeUsingRPKM
+bamCoverage -b N_Input_sorted.bam -o N_Input.bw -normalizeUsingRPKM
+bamCoverage -b N_ChIP_sorted.bam -o N_ChIP.bw -normalizeUsingRPKM
 
 
 
