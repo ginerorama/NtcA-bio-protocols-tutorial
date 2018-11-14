@@ -3,7 +3,7 @@
 # For more information visit the wiki Github page: https://github.com/ginerorama/NtcA-bio-protocols-tutorial/wiki
 
 
-#Install GenomicFeatures and ChIPseeke
+#Install GenomicFeatures and ChIPseeke. This part its just for installation, if you have already installed this packages silence this part
 source("https://bioconductor.org/biocLite.R")
 biocLite("GenomicFeatures")
 biocLite("ChIPseeker")
