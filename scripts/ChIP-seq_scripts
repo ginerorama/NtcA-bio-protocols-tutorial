@@ -35,8 +35,8 @@ samtools view -bS N_ChIP.sam > N_ChIP.bam
 
 #Sorting BAM files:
 echo 2.Sorting BAM files
-samtools sort N_Input.bam  N_Input_sorted.bam
-samtools sort N_ChIP.bam  N_ChIP_sorted.bam
+samtools sort N_Input.bam  N_Input_sorted
+samtools sort N_ChIP.bam  N_ChIP_sorted
 
 #indexing BAM files:
 echo 3.indexing BAM files
@@ -48,8 +48,8 @@ samtools index N_ChIP_sorted.bam
 echo DeepTool2: Creating BigWig files 
 
 
-bamCoverage -b N_Input_sorted.bam -o N_Input.bw -normalizeUsingRPKM
-bamCoverage -b N_ChIP_sorted.bam -o N_ChIP.bw -normalizeUsingRPKM
+bamCoverage -b N_Input_sorted.bam -o N_Input.bw -normalizeUsing=RPKM
+bamCoverage -b N_ChIP_sorted.bam -o N_ChIP.bw -normalizeUsing=RPKM
 
 
 
